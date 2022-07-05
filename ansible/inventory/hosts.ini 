@@ -1,0 +1,3 @@
+172.31.94.208   ansible_user=ubuntu  
+172.31.86.180   ansible_user=ubuntu
+172.31.82.86    ansible_user=ubuntu
